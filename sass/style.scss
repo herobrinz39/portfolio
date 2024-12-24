@@ -265,8 +265,6 @@ h1, h2, h3, h4, h5, h6, figure {
 			@media screen and (max-width: $screen-sm) {
 				font-size: 14px;
 			}
-			span{
-			}
 		}
 		.profile-thumb{
 			background-size: cover !important;
@@ -363,11 +361,6 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-started{
 	border-bottom: none;
-}
-
-.fh5co-bg-color{
-	// background: #233142;
-
 }
 .fh5co-bg-dark{
 	background: $brand-bg-dark;
